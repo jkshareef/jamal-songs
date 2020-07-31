@@ -4,7 +4,7 @@ Clone the repository to a target folder
 
 The following instructions are for VSCode, other IDE will have different extensions and packages, please refer to them.
 
-Prerequisites#
+## Prerequisites
 PostMan
 A working Java environment with essential extensions installed is needed, including:
 
@@ -27,9 +27,9 @@ TestNG (v6.8.0+)
 
 Click run on the inAtticusMusicApplication.java file jamal-songs/atticus-music/src/main/java/io/jamalshareef/
 
-## NOTE: The Java Test Runner Extension is not currently recognizing the JUnit imports and testing is currently not working in VSCode. I am able to run these tests in my local environment using the SpringToolSuite IDE which was used to create the project. Will work on troubleshooting this.
+### NOTE: The Java Test Runner Extension is not currently recognizing the JUnit imports and testing is currently not working in VSCode. I am able to run these tests in my local environment using the SpringToolSuite IDE which was used to create the project. Will work on troubleshooting this.
 
-# Usage
+## Usage
 
 Using Postman
 Check the address of the local server in the console after running. 
@@ -68,7 +68,7 @@ to the POST localhost:8080/songs address add songs with the body formatted as su
         "ranking": 5
   }
   
-  ## Thank You
+  ### Thank You
  
  
  
