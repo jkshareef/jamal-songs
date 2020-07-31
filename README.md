@@ -9,6 +9,8 @@ The following instructions are for VSCode, other IDE will have different extensi
 - A working Java environment with essential extensions installed is needed, including:
 
         Java Development Kit (JDK), version 1.8.
+        
+VSCode Extensions required:
 
         Apache Maven, version 3.0 or later.
 
